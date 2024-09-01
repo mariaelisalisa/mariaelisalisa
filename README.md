@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+🔮 Skills: Data Analytics, Data Viz
+🛠️ Tools: SAP BI, SAP BusinessObjects, BPC, EPM, Excel
+</center>
