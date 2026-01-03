@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align ="center">
-🔮 Skills: Data Analytics, Data Viz <br>
-🛠️ Tools: SAP BI, SAP BusinessObjects, BPC, EPM, Excel
-</p>
+
