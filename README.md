@@ -14,8 +14,7 @@
 ## 🌸 About Me
 
 - 💼 SAP BI/BW/BPC functional consultant with 5+ years of experience
-- 🎓 B.Eng in **Computer Science**, South China University of Technology
-- 🌏 Language study in China, so I'm comfortable working across languages and cultures
+- 🎓 B.Eng in **Computer Science**
 - 🌱 Currently modernizing my SAP skill set toward cloud and modern data tooling
 
 ## 🛠️ What I Work With
@@ -43,13 +42,6 @@
 | **Data Engineering** | Moving SAP data (e.g. S/4HANA) into cloud analytics platforms |
 | **Troubleshooting** | Diagnosing planning and script errors, data reconciliation |
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mariaelisalisa&show_icons=true&theme=transparent&hide_border=true&title_color=E86AA6&icon_color=F4A261&text_color=888)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaelisalisa&layout=compact&theme=transparent&hide_border=true&title_color=E86AA6&text_color=888)
-
 </div>
 
 ## 🤝 Let's Connect
@@ -58,6 +50,14 @@ I'm happy to chat about SAP BW/BPC, planning and analytics, or data engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-elisa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
+---
+
+<div align="center">
+
+*Thanks for stopping by! ✨*
+
+</div>
 
 <!--
 ### Hi there 👋
