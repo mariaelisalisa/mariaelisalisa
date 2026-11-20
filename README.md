@@ -3,7 +3,7 @@
 
 # Hi, I'm Maria 👋
 
-**SAP BI / BW / BPC Functional & Data Engineer** · Jakarta, Indonesia 🇮🇩
+**SAP BI / BW / BPC Functional & Data Engineer** · Jakarta 🇮🇩
 
 *Turning data into planning, reporting, and decisions people can trust.*
 
