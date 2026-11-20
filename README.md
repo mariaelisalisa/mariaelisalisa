@@ -16,6 +16,7 @@
 - 💼 SAP BI/BW/BPC functional with 5+ years of experience
 - 🎓 B.Eng in **Computer Science**
 - 🌱 Currently modernizing my SAP skill set toward cloud and modern data tooling
+- 🗣️ Indonesian, English, Mandarin
 
 ## 🛠️ What I Work With
 
